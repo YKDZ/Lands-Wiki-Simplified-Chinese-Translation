@@ -2,11 +2,11 @@
 
 ## 什么是联邦
 
-联邦是城镇的集合。A landowner can create a nation by executing `/nations create <name>`. This land will be the capital of the nation. Once the nation is created, the nation can invite other lands to join them.
+联邦是城镇的集合。城镇所有者可以通过执行命令 `/nations create <名称>` 来建立一个联邦。对应城镇将会成为这个新联邦的首都。一旦联邦被建立，就可以邀请其他城镇加入。
 
-## Allowing Nations Members
+## 为联邦成员开放权限
 
-You can allow all players that are part of the same nation to do specific actions in the land, by toggling flags of the nation role, which can be found in your land menu.
+你可以通过在城镇菜单中修改名为“联邦”的职位的相关设置来管理与你同属一个联邦的所有城镇的成员在你的城镇中能进行的行为。
 
 ## Land and Nation Upkeep
 
