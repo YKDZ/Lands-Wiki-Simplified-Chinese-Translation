@@ -1,5 +1,7 @@
 # Table of contents
 
+* [自述](README.md)
+
 ## 基本
 
 * [常见问题](ji-ben/chang-jian-wen-ti.md)
