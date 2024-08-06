@@ -1,8 +1,8 @@
-# Nations
+# 联邦
 
-## What is a Nation?
+## 什么是联邦
 
-A Nation is a collection of lands. A landowner can create a nation by executing `/nations create <name>`. This land will be the capital of the nation. Once the nation is created, the nation can invite other lands to join them.
+联邦是城镇的集合。A landowner can create a nation by executing `/nations create <name>`. This land will be the capital of the nation. Once the nation is created, the nation can invite other lands to join them.
 
 ## Allowing Nations Members
 

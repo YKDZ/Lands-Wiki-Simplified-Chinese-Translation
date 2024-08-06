@@ -7,7 +7,7 @@
 * [命令](ji-ben/ming-ling.md)
 * [关于子区域](ji-ben/guan-yu-zi-qu-yu.md)
 * [租售系统](ji-ben/zu-shou-xi-tong.md)
-* [Nations](ji-ben/nations.md)
+* [联邦](ji-ben/lian-bang.md)
 * [Wars](ji-ben/wars.md)
 * [给服务器管理员](ji-ben/gei-fu-wu-qi-guan-li-yuan.md)
 
