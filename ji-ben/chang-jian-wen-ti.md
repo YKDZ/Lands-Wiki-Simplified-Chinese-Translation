@@ -1,6 +1,6 @@
 # 常见问题 
 
-First of all, please make sure to read ["How to start as a Player"](https://github.com/Angeschossen/Lands/wiki/How-to-Start-as-a-Player) first.
+首先，请确保你阅读了 ["作为玩家开始"](zuo-wei-wan-jia-kai-shi.md) 一节。
 
 **Q: I have multiple lands. How can I claim for a specific one?**\
 A: Select your land by using /Lands edit <land> or specify the land with `/Lands claim <land>`

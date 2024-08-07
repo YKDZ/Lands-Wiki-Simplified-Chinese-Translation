@@ -8,14 +8,14 @@
 
 你可以通过在城镇菜单中修改名为“联邦”的职位的相关设置来管理与你同属一个联邦的所有城镇的成员在你的城镇中能进行的行为。
 
-## Land and Nation Upkeep
+## 城镇与联邦维护费
 
-Lands that are part of a nation will no longer pay upkeep to the server, but instead to the nation they're part of. The nation, however, can configure how much upkeep lands of their nation need to pay to them. Also, the nation needs to pay upkeep to the server. That means that setting an upkeep on their lands may be crucial to pay the upkeep costs for the nation to the server. The nation can configure the upkeep on the lands in their nation menu. The nation menu can be opened by executing `/nations`. If you're part of multiple lands, and you want to edit a nation to a different nation, execute `/lands edit <land>` to let the `/nations` command be executed for this specific land.
+属于一个联邦的城镇将不再向服务器，而是向他们所属的联邦支付维护费。联邦也可以自由配置下属的城镇需要支付的维护费金额。同时，联邦本身需要向服务器支付维护费。这意味着联邦可以通过向下属城镇收取维护费从而缓解自身向服务器支付的维护费的压力。联邦可以在菜单中配置向下属城镇收取的维护费金额。可以通过命令 `/nations` 来打开联邦菜单。如果你同时是多个城镇的成员且它们分属不同的联邦，可以通过命令 `/lands edit <城镇>` 以使 `/nations` 命令作用于不同的联邦。
 
-## Nations in Wars
+## 联邦与战争
 
 Nations can declare war against other nations, like lands, by executing `/wars declare <land or nation>`. All lands in the nation will fight in this war. If a player is part two of lands that are not in the same nation, the player will join the team in which they are part of the most lands. In this case, lands they own will be prioritized. Depending on your server's configuration, a single land can also declare war against a whole nation.
 
-## Nation Levels
+## 联邦等级
 
 A nation can level up by various factors which depend on your server's setup. Levels will reward you and your nation members with more claims and other benefits. You can view the level of your current nation by executing `/nations` and the clicking on the statistics item.
