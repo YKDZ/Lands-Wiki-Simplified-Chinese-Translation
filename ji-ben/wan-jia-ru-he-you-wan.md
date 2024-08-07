@@ -1,10 +1,10 @@
 # 作为玩家开始
 
-1. Optional: Create a land\
+1. 可选：Create a land\
    `/lands create <name>`
-2. Optional: Enter the selection mode\
+2. 可选：Enter the selection mode\
    `/lands selection` or use the selection tool, if provided by the server.
-3. Optional: Select both corners of the area you want to claim\
+3. 可选：Select both corners of the area you want to claim\
    `Use left and right click to do so.`
 4. Use /lands claim to claim the area\
    If no selection made, it will claim the chunk you're standing on.\
