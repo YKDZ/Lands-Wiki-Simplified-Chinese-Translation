@@ -1,15 +1,15 @@
 # 常见问题 
 
-首先，请确保你阅读了 ["作为玩家开始"](zuo-wei-wan-jia-kai-shi.md) 一节。
+首先，请确保你阅读了 ["玩家如何游玩"](wan-jia-ru-he-you-wan.md) 一章。
 
-**Q: I have multiple lands. How can I claim for a specific one?**\
-A: Select your land by using /Lands edit <land> or specify the land with `/Lands claim <land>`
+**Q：我拥有多个城镇，我该怎么为特定的城镇占领领土？**\
+A：通过命令 `/lands edit <城镇名>` 选择一个城镇或直接使用命令 `/lands claim <城镇名>` 为特定城镇占领领土。
 
-**Q: I have multiple lands. How can I select the land I want to use for my commands that I don't have to specify it in the commands every time.**\
-A: Select your land by using `/Lands edit <land>`
+**Q：我拥有多个城镇，我如何指定之后的每个命令具体作用于哪个城镇，以免反复在命令中输入城镇名？**\
+A：通过命令 `/lands edit <城镇名>` 选择一个城镇。
 
-**Q. I'm part of multiple lands. At least two of them are now engaged in a war. Which team do I join?**\
-A: Defending lands are prioritized and the team is calculated once and stays the same.
+**Q：我是多个城镇的成员，其中至少两个加入了同一场战争。我将会属于哪一方？**\
+A：优先加入守方。具体加入哪一方仅计算一次，之后保持不变。
 
 
  

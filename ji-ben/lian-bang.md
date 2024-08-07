@@ -10,12 +10,12 @@
 
 ## 城镇与联邦维护费
 
-属于一个联邦的城镇将不再向服务器，而是向他们所属的联邦支付维护费。联邦也可以自由配置下属的城镇需要支付的维护费金额。同时，联邦本身需要向服务器支付维护费。这意味着联邦可以通过向下属城镇收取维护费从而缓解自身向服务器支付的维护费的压力。联邦可以在菜单中配置向下属城镇收取的维护费金额。可以通过命令 `/nations` 来打开联邦菜单。如果你同时是多个城镇的成员且它们分属不同的联邦，可以通过命令 `/lands edit <城镇>` 以使 `/nations` 命令作用于不同的联邦。
+属于一个联邦的城镇将不再向服务器，而是向他们所属的联邦支付维护费。联邦也可以自由配置下属的城镇需要支付的维护费金额。同时，联邦本身需要向服务器支付维护费。这意味着联邦可以通过向下属城镇收取维护费从而缓解自身向服务器支付的维护费的压力。联邦可以在菜单中配置向下属城镇收取的维护费金额。可以通过命令 `/nations` 来打开联邦菜单。如果你同时是多个城镇的成员且它们分属不同的联邦，可以通过命令 `/lands edit <城镇名>` 以使 `/nations` 命令作用于不同的联邦。
 
 ## 联邦与战争
 
-Nations can declare war against other nations, like lands, by executing `/wars declare <land or nation>`. All lands in the nation will fight in this war. If a player is part two of lands that are not in the same nation, the player will join the team in which they are part of the most lands. In this case, lands they own will be prioritized. Depending on your server's configuration, a single land can also declare war against a whole nation.
+联邦可以像城镇一样通过命令 `/wars declare <城镇或联邦名>` 以向其他联邦或城镇宣战。联邦中的所有城镇都需要参与这场战争。如果一个玩家同时是分属不同联邦的两个城镇的成员，他将会归属于自己加入的城镇最多的那一方。他建立的城镇将被优先考虑。单独的城镇也可以对联邦宣战，这取决于配置文件的设置。
 
 ## 联邦等级
 
-A nation can level up by various factors which depend on your server's setup. Levels will reward you and your nation members with more claims and other benefits. You can view the level of your current nation by executing `/nations` and the clicking on the statistics item.
+一个联邦可以通过满足由配置文件指定的多种要求从而升级。等级将会奖励你和你的联邦成员更多的领土上限和增益效果。你可以通过命令 `/nations` 以查看当前联邦的等级状态和升级要求。

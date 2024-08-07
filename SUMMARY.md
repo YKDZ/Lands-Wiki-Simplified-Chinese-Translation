@@ -5,7 +5,7 @@
 ## 基本
 
 * [常见问题](ji-ben/chang-jian-wen-ti.md)
-* [作为玩家开始](ji-ben/zuo-wei-wan-jia-kai-shi.md)
+* [玩家如何游玩](ji-ben/wan-jia-ru-he-you-wan.md)
 * [命令](ji-ben/ming-ling.md)
 * [关于子区域](ji-ben/guan-yu-zi-qu-yu.md)
 * [租售系统](ji-ben/zu-shou-xi-tong.md)
