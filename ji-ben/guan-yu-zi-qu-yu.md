@@ -1,16 +1,16 @@
 # 关于子区域
 
-#### What is a Area?
+#### 什么是子区域
 
-Land areas are "sub areas/lands" inside a land. These areas are three dimensional, that means that they are not bound to chunks but instead to blocks. You can trust players to specific area(s) and apply flags for it, like you would do for a land.
+子区域是在城镇领土中单独划分出的小区域。这些子区域是三维的，这意味着它以方块而不是区块作为最小单位。你可以为一个子区域单独编辑设置或分配职位，就像对整个城镇做的一样。
 
-#### Create a new Area
+#### 创建子区域
 
-1. First open your land menu with /Lands menu and click on the areas item. Depending on your servers configuration of the GUI menus the item position may vary. ![Click on the areas item.](https://imgur.com/7SxMfck.png)
-2. Now click on the add area button. After this you will need to enter the area name in chat. ![Click on the add area item.](https://imgur.com/8Ldk0go.png)
-3. After that you will notice that the area will popup in the menu and give you instructions how to set the size of it. ![Execute /Lands selection and mark both corners with left and right click. No tool is needed.](https://imgur.com/6Fsnywv.png)
-4. The selection is set. It will display it to you live. You can make changes as you wish. Then just execute /Lands selection assign . After that everything is setup. ![](https://imgur.com/KnF2iWl.png)
+1. 首先使用 `/lands` 命令打开城镇菜单并点击子区域按钮。根据服务器的菜单配置不同按钮的位置可能有变化。![点击城镇按钮](https://imgur.com/7SxMfck.png)
+2. 然后点击添加子区域按钮并在聊天栏输入子区域名称。![点击添加子区域按钮](https://imgur.com/8Ldk0go.png)
+3. 之后你将看到子区域的图标出现在菜单中，并告知你如何调整它的大小和位置。![使用 /lands selection 命令并指定长方形区域体对角线的两端点（无需任何工具物品）](https://imgur.com/6Fsnywv.png)
+4. 子区域被成功划定后，其边界将对你动态可见。你也可以使用 `/lands selection assign` 命令继续调整它。子区域的设置到此结束。![](https://imgur.com/KnF2iWl.png)
 
-### Trust Players and set Flags
+### 邀请玩家作为成员并编辑设置
 
-By opening the areas menu again and clicking on the area, you can trust players to this specific area and edit flags. You can do everything for this specific area, like it is a land. ![This is the area menu. Click on the items to perform actions.](https://imgur.com/JyEu516.png)
+你可以在子区域菜单中调整其相关设置并为其分配成员，就像你对整个城镇做的一样。![这是子区域菜单，点击按钮以执行操作](https://imgur.com/JyEu516.png)
