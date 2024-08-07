@@ -129,7 +129,7 @@
 
 > `/lands untrust <玩家名> [area,*]`\
 > `权限：lands.command.untrust`\
-> 描述：踢出玩家\
+> 描述：移出玩家\
 > 子区域参数是可选的
 
 > `/lands storage`\
@@ -223,7 +223,7 @@
 
 > `/nations untrust`\
 > `权限：nations.command.untrust`\
-> 描述：踢出城镇
+> 描述：移出城镇
 
 > `/nations relations`\
 > `权限：nations.command.relations`\

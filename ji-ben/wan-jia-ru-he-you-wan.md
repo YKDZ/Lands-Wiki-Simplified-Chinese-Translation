@@ -1,48 +1,46 @@
-# 作为玩家开始
+# 玩家如何游玩
 
-1. 可选：Create a land\
-   `/lands create <name>`
-2. 可选：Enter the selection mode\
-   `/lands selection` or use the selection tool, if provided by the server.
-3. 可选：Select both corners of the area you want to claim\
-   `Use left and right click to do so.`
-4. Use /lands claim to claim the area\
-   If no selection made, it will claim the chunk you're standing on.\
-   If no land has been created before, it will automatically create a land with your name.\
+1. 可选：建立城镇\
+   `/lands create <城镇名>`
+2. 可选：进入选区模式\
+   `/lands selection` 或使用服务器可能提供的选区工具
+3. 可选：选取你想占领的区域的体对角线的两端点\
+   `使用左键与右键分别选点`
+4. 使用 `/lands claim` 命令占领区块\
+   如果没有存在的选区，则占领你所在的区块\
+   如果没有建立过城镇，则会自动以你的玩家名创建一个\
    `/lands claim`
-5. Open the lands menu to manage your land\
+5. 打开城镇菜单以管理你的新城镇\
    `/lands menu`
-6. To use the commands for a different land\
-   Execute `/lands edit <land>`\
-   All following commands will be executed for this land.
+6. 使用命令 `/lands edit <城镇名>` 对另一个城镇执行操作\
+   之后的所有命令都会以这个城镇为目标执行
 
 ***
 
-#### Select a Land for Editing
+#### 选择一个城镇以编辑
 
-Execute `/lands edit <land>`\
-Allow following commands will be executed for\
-this land.
+使用命令 `/lands edit <城镇名>` 选择特定城镇\
+之后的所有命令都会以这个城镇为目标执行
 
-#### Trust Players
+#### 邀请玩家作为成员
 
-Execute `/lands trust <player> [area or * for whole land]` Alternatively, open your land menu and go to players\
-and click on the 'Trust Player' button.
+使用命令 `/lands trust <玩家名> [子区域名或 * 以针对整个城镇]`\
+另外也可以在城镇菜单的成员界面中点击邀请玩家按钮
 
-#### Untrust Players
+#### 移出玩家
 
-Execute `/lands untrust <player> [area or * for whole land]` Alternatively, open your land menu and go to players\
-and click on the 'Untrust Player' button.
+使用命令 `/lands untrust <玩家名> [子区域名或 * 以针对整个城镇]`\
+另外也可以在城镇菜单的成员界面中点击移出玩家按钮
 
-#### Toggle Permissions for Players
+#### 管理玩家权限
 
-1. Open your lands menu by executing `/lands`
-2. Click on the roles item
-3. Open the role settings menu
-4. Configure the settings to your liking
+1. 使用命令 `/lands` 打开城镇菜单
+2. 点击职位按钮
+3. 点击职位设置按钮
+4. 按你的需求配置特定职位的各项权限
 
-#### Promote / Demote Players
+#### 为玩家升降职
 
-1. Open your lands menu by executing `/lands`
-2. Click on the player's item
-3. Use left click to promote and right click to demote them
+1. 使用命令 `/lands` 打开城镇菜单
+2. 点击成员按钮
+3. 使用成员头像图标上提示的按键为特定成员升降职
