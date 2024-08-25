@@ -1,4 +1,4 @@
-# Wars
+# 战争
 
 This page explains how the war system of Lands works from the perspective of a player.
 
